@@ -1,0 +1,105 @@
+{
+  "post": {
+    "current": {},
+    "previous": {
+      "authors": [
+        {
+          "id": "1",
+          "name": "Alex Gleason",
+          "slug": "alex",
+          "email": "alex@alexgleason.me",
+          "profile_image": "https://www.gravatar.com/avatar/334f4c5e8d4331a115851d91d76555b5?s=250&r=x&d=mp",
+          "cover_image": null,
+          "bio": null,
+          "website": null,
+          "location": null,
+          "facebook": null,
+          "twitter": null,
+          "accessibility": null,
+          "status": "active",
+          "meta_title": null,
+          "meta_description": null,
+          "tour": null,
+          "last_seen": "2024-04-13T02:13:36.000Z",
+          "comment_notifications": true,
+          "free_member_signup_notification": true,
+          "paid_subscription_started_notification": true,
+          "paid_subscription_canceled_notification": false,
+          "mention_notifications": true,
+          "recommendation_notifications": true,
+          "milestone_notifications": true,
+          "donation_notifications": true,
+          "created_at": "2024-03-28T03:49:46.000Z",
+          "updated_at": "2024-04-13T02:13:36.000Z",
+          "roles": [
+            {
+              "id": "6604e8da1ebc4fb3c0dd81b0",
+              "name": "Owner",
+              "description": "Blog Owner",
+              "created_at": "2024-03-28T03:49:46.000Z",
+              "updated_at": "2024-03-28T03:49:46.000Z"
+            }
+          ],
+          "url": "https://letr.letr.co/author/alex/"
+        }
+      ],
+      "tiers": [
+        {
+          "id": "6604e8da1ebc4fb3c0dd81b9",
+          "name": "Free",
+          "slug": "free",
+          "active": true,
+          "welcome_page_url": null,
+          "visibility": "public",
+          "trial_days": 0,
+          "description": null,
+          "type": "free",
+          "currency": null,
+          "monthly_price": null,
+          "yearly_price": null,
+          "created_at": "2024-03-28T03:49:46.000Z",
+          "updated_at": "2024-03-28T03:49:46.000Z",
+          "monthly_price_id": null,
+          "yearly_price_id": null
+        },
+        {
+          "id": "6604e8da1ebc4fb3c0dd81ba",
+          "name": "Letr",
+          "slug": "default-product",
+          "active": true,
+          "welcome_page_url": null,
+          "visibility": "public",
+          "trial_days": 0,
+          "description": null,
+          "type": "paid",
+          "currency": "usd",
+          "monthly_price": 500,
+          "yearly_price": 5000,
+          "created_at": "2024-03-28T03:49:46.000Z",
+          "updated_at": "2024-03-28T04:03:37.000Z",
+          "monthly_price_id": null,
+          "yearly_price_id": null
+        }
+      ],
+      "id": "6619f2757b2604083054e905",
+      "uuid": "9cc0f48b-dcac-4c83-8bd7-63ddb1b57f9c",
+      "title": "Parler’s epic fail: A crash course on running your own servers on a shoestring budget",
+      "slug": "parlers-epic-fail-a-crash-course-on-running-your-own-servers-on-a-shoestring-budget",
+      "mobiledoc": null,
+      "html": "<p>YOLO!</p>",
+      "comment_id": "6619f2757b2604083054e905",
+      "feature_image": null,
+      "featured": false,
+      "status": "published",
+      "visibility": "public",
+      "created_at": "2024-04-13T02:48:21.000Z",
+      "updated_at": "2024-04-13T02:50:51.000Z",
+      "published_at": "2024-04-13T02:48:39.000Z",
+      "custom_excerpt": null,
+      "codeinjection_head": null,
+      "codeinjection_foot": null,
+      "custom_template": null,
+      "canonical_url": null
+    }
+  }
+}
