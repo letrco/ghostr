@@ -108,7 +108,8 @@
   },
   "workspace": {
     "dependencies": [
-      "npm:nostr-tools@^2.5.0"
+      "npm:nostr-tools@^2.5.0",
+      "npm:zod@^3.22.4"
     ]
   }
 }
