@@ -17,6 +17,7 @@
     "proseWrap": "preserve"
   },
   "imports": {
-    "hono": "https://deno.land/x/hono@v4.2.3/mod.ts"
+    "hono": "https://deno.land/x/hono@v4.2.3/mod.ts",
+    "nostr-tools": "npm:nostr-tools@^2.5.0"
   }
 }
