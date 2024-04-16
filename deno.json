@@ -17,6 +17,8 @@
     "proseWrap": "preserve"
   },
   "imports": {
+    "@nostrify/nostrify": "jsr:@nostrify/nostrify@^0.9.7",
+    "@wcj/html-to-markdown": "npm:@wcj/html-to-markdown@^2.0.0",
     "hono": "https://deno.land/x/hono@v4.2.3/mod.ts",
     "nostr-tools": "npm:nostr-tools@^2.5.0",
     "zod": "npm:zod@^3.22.4"

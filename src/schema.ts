@@ -64,6 +64,9 @@ export const ghostPayload = z.object({
       custom_template: z.string().nullable(),
       canonical_url: z.string().nullable(),
       authors: ghostAuthor.array(),
+      excerpt: z.string().nullable(),
     }),
   }),
 });
+
+export type GhostPayload = z.infer<typeof ghostPayload>;
